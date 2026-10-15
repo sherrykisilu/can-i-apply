@@ -1,0 +1,46 @@
+{
+  "name": "can-i-apply",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Normalise free text job location eligibility into verified ISO 3166-1 country codes and answer which roles a resident of a given country can hold.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "migration:run": "node --import tsx ./node_modules/typeorm/cli.js migration:run -d src/data-source.ts",
+    "migration:revert": "node --import tsx ./node_modules/typeorm/cli.js migration:revert -d src/data-source.ts",
+    "cli": "node --import tsx src/cli.ts",
+    "api": "node --import tsx src/api/server.ts",
+    "scan:dashes": "node scripts/scan-dashes.mjs",
+    "bench:index": "node --import tsx scripts/benchmark-index.ts",
+    "fixtures:refresh": "node --import tsx scripts/refresh-fixtures.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.27",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "@types/express": "^5.0.3",
+    "@types/node": "^22.18.8",
+    "eslint": "^9.37.0",
+    "globals": "^17.13.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.46.0",
+    "vitest": "^5.0.3"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

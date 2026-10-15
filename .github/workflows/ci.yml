@@ -1,0 +1,60 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: can_i_apply
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 20
+
+    env:
+      DATABASE_URL: postgres://postgres:postgres@127.0.0.1:5432/can_i_apply
+      TEST_DATABASE_URL: postgres://postgres:postgres@127.0.0.1:5432/can_i_apply_test
+      REQUIRE_DB_TESTS: '1'
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Create the test database
+        run: |
+          PGPASSWORD=postgres psql -h 127.0.0.1 -U postgres -d can_i_apply \
+            -c 'CREATE DATABASE can_i_apply_test;'
+
+      - name: Scan for banned dash characters
+        run: npm run scan:dashes
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      # No ANTHROPIC_API_KEY is set anywhere in this workflow. The suite runs against recorded
+      # fixtures through ReplayProvider, so a green build here proves the tests work offline.
+      - name: Test
+        run: npm test

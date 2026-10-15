@@ -1,0 +1,1089 @@
+{
+  "note": "Real postings from the public Deel careers board, captured verbatim from the embedded JSON payload.",
+  "source": "https://www.deel.com/careers/open-roles",
+  "capturedAt": "2026-10-15T11:57:07.344Z",
+  "jobs": [
+    {
+      "ashby_id": "061b755b-57b3-42fd-b652-3181bc37aab7",
+      "title": "Payroll Expert | Czech Republic",
+      "department_name": "payroll",
+      "location_name": "Czech Republic",
+      "all_locations": [
+        "Czech Republic",
+        "Slovakia"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/061b755b-57b3-42fd-b652-3181bc37aab7/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "9621ec65-9bef-41db-898a-a67f51db1e48",
+      "title": "Credit Risk Analyst",
+      "department_name": "risk-compliance",
+      "location_name": "France",
+      "all_locations": [
+        "France",
+        "Spain",
+        "Portugal",
+        "Italy",
+        "Slovenia",
+        "Slovakia",
+        "Poland",
+        "Lithuania",
+        "Bulgaria",
+        "Sweden",
+        "Denmark",
+        "Ireland",
+        "Germany"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/9621ec65-9bef-41db-898a-a67f51db1e48/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "0a34fd03-078c-454b-8c00-640ee3ac929e",
+      "title": "Senior Product Manager, Payroll",
+      "department_name": "product-design",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/0a34fd03-078c-454b-8c00-640ee3ac929e/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "db899624-61b7-4d6a-9eaa-1f8aa11dbecb",
+      "title": "Information Security Engineer",
+      "department_name": "$undefined",
+      "location_name": "Austria",
+      "all_locations": [
+        "Austria",
+        "Czech Republic",
+        "Denmark",
+        "Bosnia & Herzegovina",
+        "Estonia",
+        "Croatia",
+        "Armenia",
+        "Egypt",
+        "Cyprus",
+        "Albania",
+        "Georgia",
+        "Greece",
+        "Germany",
+        "North Macedonia",
+        "United Arab Emirates",
+        "United Kingdom",
+        "India",
+        "Indonesia",
+        "Philippines",
+        "Bangladesh",
+        "Ireland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/db899624-61b7-4d6a-9eaa-1f8aa11dbecb/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "91123c15-2983-49d7-88df-7315dd3dcb36",
+      "title": "Account Executive, Enterprise, GCR ",
+      "department_name": "sales",
+      "location_name": "China",
+      "all_locations": [
+        "China"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/91123c15-2983-49d7-88df-7315dd3dcb36/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "42ae16e0-75ed-43db-b2a6-3a2d332c1c60",
+      "title": "Application Security Architect",
+      "department_name": "engineering",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Mexico",
+        "Colombia",
+        "Costa Rica",
+        "Perú"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/42ae16e0-75ed-43db-b2a6-3a2d332c1c60/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "e3618803-f6b7-4d73-9ab5-cf6f558d477f",
+      "title": "Senior Field Marketing Manager | ANZ",
+      "department_name": "marketing-communications",
+      "location_name": "Australia",
+      "all_locations": [
+        "Australia"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/e3618803-f6b7-4d73-9ab5-cf6f558d477f/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "2c7f0c84-89c4-4586-9662-fbd6044f4611",
+      "title": "Information Security Analyst",
+      "department_name": "it-security",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "India",
+        "Indonesia",
+        "Philippines"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/2c7f0c84-89c4-4586-9662-fbd6044f4611/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "d326d434-e031-4014-96f6-10c380291f1a",
+      "title": "Integrated Solutions Manager",
+      "department_name": "customer-success-onboarding",
+      "location_name": "Croatia",
+      "all_locations": [
+        "Croatia",
+        "Estonia",
+        "Finland",
+        "Denmark",
+        "Belgium",
+        "France",
+        "Austria",
+        "Germany",
+        "Poland",
+        "Romania",
+        "Bulgaria",
+        "Hungary",
+        "Belarus",
+        "Czech Republic",
+        "Spain",
+        "Italy",
+        "Georgia",
+        "Morocco",
+        "Israel",
+        "Kenya",
+        "Norway",
+        "Portugal",
+        "South Africa",
+        "Slovakia",
+        "Sweden",
+        "United Arab Emirates"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/d326d434-e031-4014-96f6-10c380291f1a/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "b67d399f-f027-485e-865d-85b7ecba380c",
+      "title": "Account Executive, Mid-Market | France",
+      "department_name": "sales",
+      "location_name": "Belgium",
+      "all_locations": [
+        "Belgium",
+        "Ireland",
+        "France",
+        "Spain",
+        "Portugal"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/b67d399f-f027-485e-865d-85b7ecba380c/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "539f7877-6b4c-49cd-9272-ede3abcb853f",
+      "title": "Product Operations Manager, Payroll",
+      "department_name": "product-design",
+      "location_name": "Argentina",
+      "all_locations": [
+        "Argentina",
+        "Brazil",
+        "Uruguay",
+        "Colombia"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/539f7877-6b4c-49cd-9272-ede3abcb853f/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "96b77566-6784-4782-987a-1c0e537b2faf",
+      "title": "Senior Enablement Manager, Revenue",
+      "department_name": "$undefined",
+      "location_name": "Australia",
+      "all_locations": [
+        "Australia",
+        "Singapore"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/96b77566-6784-4782-987a-1c0e537b2faf/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "fc80725f-dc02-406a-97ab-bf0bcc8b9835",
+      "title": "InfoSec Third Party Risk Management (TPRM) Specialist",
+      "department_name": "$undefined",
+      "location_name": "Greece",
+      "all_locations": [
+        "Greece",
+        "Germany",
+        "Hungary",
+        "Estonia",
+        "Israel",
+        "Oman",
+        "Romania",
+        "Saudi Arabia",
+        "Jordan",
+        "Montenegro",
+        "North Macedonia",
+        "Kosovo",
+        "Serbia",
+        "Malta",
+        "Portugal",
+        "Slovenia",
+        "Ghana",
+        "Senegal",
+        "Algeria",
+        "Cameroon",
+        "Morocco",
+        "Tunisia",
+        "Egypt",
+        "South Africa",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/fc80725f-dc02-406a-97ab-bf0bcc8b9835/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "eb59c7d5-f477-4ec1-a2df-a447d6ec6eee",
+      "title": "Site Reliability Engineer",
+      "department_name": "$undefined",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Canada",
+        "Perú",
+        "Chile"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/eb59c7d5-f477-4ec1-a2df-a447d6ec6eee/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "14a86f04-c52d-4cb8-8b1b-fbc86e345bac",
+      "title": "Account Executive, Expansion, Mid-Market | France",
+      "department_name": "sales",
+      "location_name": "France",
+      "all_locations": [
+        "France"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/14a86f04-c52d-4cb8-8b1b-fbc86e345bac/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "09397d43-df36-4881-b0e2-1af3105f9f05",
+      "title": "Immigration Consultant, Canada ",
+      "department_name": "operations",
+      "location_name": "Canada",
+      "all_locations": [
+        "Canada"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/09397d43-df36-4881-b0e2-1af3105f9f05/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "a9f2da0a-fb6b-4d00-809d-fe7284a24f6b",
+      "title": "Operations Manager | North America",
+      "department_name": "operations",
+      "location_name": "Canada",
+      "all_locations": [
+        "Canada",
+        "United States"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/a9f2da0a-fb6b-4d00-809d-fe7284a24f6b/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "56c0a201-45b4-41c5-9b0c-9f8d7ec37144",
+      "title": "Account Executive, Expansion, SMB | DACH",
+      "department_name": "sales",
+      "location_name": "Germany",
+      "all_locations": [
+        "Germany",
+        "Spain",
+        "Ireland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/56c0a201-45b4-41c5-9b0c-9f8d7ec37144/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "4eed3f35-86a1-4eec-87e4-472d5b71fbff",
+      "title": "Sales Development Representative, Mid Market | LATAM",
+      "department_name": "sales",
+      "location_name": "Colombia",
+      "all_locations": [
+        "Colombia",
+        "Perú",
+        "Ecuador"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/4eed3f35-86a1-4eec-87e4-472d5b71fbff/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "a63064d1-06ba-4e93-a986-f8feccbca0d8",
+      "title": "Payroll Expert | Argentina",
+      "department_name": "payroll",
+      "location_name": "Argentina",
+      "all_locations": [
+        "Argentina"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/a63064d1-06ba-4e93-a986-f8feccbca0d8/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "ddc335ea-83ca-4927-8f3f-23ea4d89be05",
+      "title": "Senior Product Designer, Growth/Website",
+      "department_name": "product-design",
+      "location_name": "Greece",
+      "all_locations": [
+        "Greece",
+        "United Kingdom",
+        "Spain",
+        "Portugal",
+        "Germany",
+        "France",
+        "Belgium",
+        "Brazil",
+        "Poland",
+        "Israel",
+        "Estonia",
+        "Sweden",
+        "Switzerland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/ddc335ea-83ca-4927-8f3f-23ea4d89be05/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "4bbe7a28-0ba9-4cc1-b351-47e15e997fae",
+      "title": "Senior FinCrime Investigation Unit Specialist | Australia",
+      "department_name": "$undefined",
+      "location_name": "Australia",
+      "all_locations": [
+        "Australia",
+        "Austria"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/4bbe7a28-0ba9-4cc1-b351-47e15e997fae/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "d8be4066-9c38-4413-a969-1b98b44899a6",
+      "title": "Site Reliability Engineer",
+      "department_name": "engineering",
+      "location_name": "Austria",
+      "all_locations": [
+        "Austria",
+        "Belarus",
+        "Czech Republic",
+        "Bosnia & Herzegovina",
+        "Bulgaria",
+        "Estonia",
+        "Croatia",
+        "Cyprus",
+        "Armenia",
+        "Albania",
+        "France",
+        "Georgia",
+        "Germany",
+        "Greece",
+        "North Macedonia",
+        "Romania",
+        "Italy",
+        "Portugal",
+        "Spain",
+        "Poland",
+        "United Arab Emirates",
+        "Kosovo",
+        "Latvia",
+        "Ukraine",
+        "Turkey"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/d8be4066-9c38-4413-a969-1b98b44899a6/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "2a26453b-1932-4b11-b811-998b09b4653e",
+      "title": "IT Engineer | LATAM",
+      "department_name": "it-security",
+      "location_name": "Colombia",
+      "all_locations": [
+        "Colombia",
+        "Mexico",
+        "Costa Rica"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/2a26453b-1932-4b11-b811-998b09b4653e/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "4b2c0626-4b7e-4082-b672-cd5309346a43",
+      "title": "Information Security Analyst - PST Timezone",
+      "department_name": "$undefined",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Perú",
+        "Mexico",
+        "Argentina",
+        "United States"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/4b2c0626-4b7e-4082-b672-cd5309346a43/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "4e78fd34-f324-42c5-bd71-a290fa5c4933",
+      "title": "Devsecops Engineer",
+      "department_name": "$undefined",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Canada"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/4e78fd34-f324-42c5-bd71-a290fa5c4933/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "60ec2b28-4190-42d9-9618-49eedbff597c",
+      "title": "Senior Data Engineer",
+      "department_name": "engineering",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Chile",
+        "Mexico",
+        "Colombia"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/60ec2b28-4190-42d9-9618-49eedbff597c/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "4dbead37-6390-41ee-a985-b60478655caa",
+      "title": "Senior Partnerships Manager | DACH",
+      "department_name": "partnerships-corporate-dev",
+      "location_name": "Germany",
+      "all_locations": [
+        "Germany"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/4dbead37-6390-41ee-a985-b60478655caa/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "7187643c-979b-4274-afaf-be8a066118e4",
+      "title": "Director, Product Design",
+      "department_name": "product-design",
+      "location_name": "Canada",
+      "all_locations": [
+        "Canada",
+        "Brazil",
+        "Colombia",
+        "Spain",
+        "Germany",
+        "Uruguay",
+        "United Kingdom",
+        "France",
+        "Poland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/7187643c-979b-4274-afaf-be8a066118e4/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "3c1b4183-ac8e-4449-847f-68a6bfc80515",
+      "title": "Implementation Consultant | LATAM",
+      "department_name": "customer-success-onboarding",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Mexico",
+        "United States"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/3c1b4183-ac8e-4449-847f-68a6bfc80515/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "b92d315b-ef6a-4d34-aed8-6dcb43bb0909",
+      "title": "Payroll Implementation Manager | Denmark",
+      "department_name": "payroll",
+      "location_name": "Denmark",
+      "all_locations": [
+        "Denmark"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/b92d315b-ef6a-4d34-aed8-6dcb43bb0909/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "f0616d4e-22ec-4093-bed4-cb1e38b66067",
+      "title": "Senior Payroll Associate | Bulgaria",
+      "department_name": "payroll",
+      "location_name": "Bulgaria",
+      "all_locations": [
+        "Bulgaria"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/f0616d4e-22ec-4093-bed4-cb1e38b66067/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "5dd2c2c1-9efd-411b-9a92-6f5430fb55d5",
+      "title": "Staff Product Designer, Growth",
+      "department_name": "product-design",
+      "location_name": "Argentina",
+      "all_locations": [
+        "Argentina",
+        "Canada",
+        "Spain",
+        "Portugal",
+        "Brazil",
+        "Belgium",
+        "Poland",
+        "Italy",
+        "Austria",
+        "Denmark",
+        "France",
+        "Israel",
+        "United Kingdom"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/5dd2c2c1-9efd-411b-9a92-6f5430fb55d5/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "ce729dfc-08a2-44fb-a3b8-2efbc54990aa",
+      "title": "Senior Credit Risk Analyst",
+      "department_name": "risk-compliance",
+      "location_name": "France",
+      "all_locations": [
+        "France",
+        "Portugal",
+        "Germany",
+        "Austria",
+        "Switzerland",
+        "Hungary",
+        "Slovenia",
+        "Slovakia",
+        "Belgium",
+        "United Kingdom"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/ce729dfc-08a2-44fb-a3b8-2efbc54990aa/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "0a1fc557-0209-4be7-bedd-3aa58dbec37b",
+      "title": "Solutions Engineer, Deel HR | DACH",
+      "department_name": "sales",
+      "location_name": "Austria",
+      "all_locations": [
+        "Austria",
+        "Germany",
+        "Switzerland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/0a1fc557-0209-4be7-bedd-3aa58dbec37b/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "04493f48-1a6f-47fd-b694-7f28fcece441",
+      "title": "Staff Engineer",
+      "department_name": "engineering",
+      "location_name": "Azerbaijan",
+      "all_locations": [
+        "Azerbaijan",
+        "Belarus",
+        "Belgium",
+        "Denmark",
+        "Bosnia & Herzegovina",
+        "Bulgaria",
+        "Estonia",
+        "Croatia",
+        "Cyprus",
+        "Angola",
+        "Armenia",
+        "Albania",
+        "Georgia",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Kazakhstan",
+        "Romania",
+        "Ireland",
+        "Latvia",
+        "Italy",
+        "Portugal",
+        "Spain",
+        "Turkey",
+        "United Kingdom"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/04493f48-1a6f-47fd-b694-7f28fcece441/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "7fc3eba6-28fd-4c17-a8d9-e6900ebfdb12",
+      "title": "Senior Full Stack Engineer - APAC/EMEA",
+      "department_name": "payroll",
+      "location_name": "Egypt",
+      "all_locations": [
+        "Egypt",
+        "Kosovo",
+        "Greece",
+        "Romania",
+        "Serbia",
+        "Ukraine",
+        "India",
+        "Pakistan",
+        "Indonesia",
+        "Philippines",
+        "United Arab Emirates",
+        "Israel",
+        "Latvia",
+        "Bulgaria",
+        "South Africa"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/7fc3eba6-28fd-4c17-a8d9-e6900ebfdb12/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "e7fbf88e-d267-44d5-a9e6-ccaaabf38256",
+      "title": "Back-End Engineer",
+      "department_name": "data-analytics",
+      "location_name": "Austria",
+      "all_locations": [
+        "Austria",
+        "Belarus",
+        "Czech Republic",
+        "Bosnia & Herzegovina",
+        "Bulgaria",
+        "Estonia",
+        "Cameroon",
+        "Croatia",
+        "Cyprus",
+        "Armenia",
+        "Egypt",
+        "Albania",
+        "Georgia",
+        "Greece",
+        "North Macedonia",
+        "Romania",
+        "Spain",
+        "Portugal",
+        "Poland",
+        "Israel"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/e7fbf88e-d267-44d5-a9e6-ccaaabf38256/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "33975eb9-ffeb-4129-8bb2-3ce40a9ca990",
+      "title": "Software Engineer - Messaging & Async Platform Infrastructure",
+      "department_name": "$undefined",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Canada",
+        "Chile",
+        "Perú"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/33975eb9-ffeb-4129-8bb2-3ce40a9ca990/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "aa429480-e35b-4736-9df2-9c52c5e36f40",
+      "title": "Backend Engineer, NodeJS | Only UTC-6 to UTC-9 time",
+      "department_name": "engineering",
+      "location_name": "Canada",
+      "all_locations": [
+        "Canada",
+        "Mexico",
+        "Colombia",
+        "Costa Rica",
+        "Perú"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/aa429480-e35b-4736-9df2-9c52c5e36f40/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "11d92d5b-5c94-445b-bfe2-b3d1a5ade52e",
+      "title": "Account Executive, SMB | France",
+      "department_name": "sales",
+      "location_name": "France",
+      "all_locations": [
+        "France",
+        "Spain",
+        "Ireland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/11d92d5b-5c94-445b-bfe2-b3d1a5ade52e/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "2881b7fb-8d36-4e03-a81f-91583d6ce65f",
+      "title": "Sales Development Representative, Mid-Market | Benelux",
+      "department_name": "sales",
+      "location_name": "Belgium",
+      "all_locations": [
+        "Belgium",
+        "Luxembourg",
+        "Austria",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "Ireland",
+        "Portugal",
+        "Spain",
+        "Sweden"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/2881b7fb-8d36-4e03-a81f-91583d6ce65f/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "37adfea6-d55c-46b3-8de2-fa0ea0d3999d",
+      "title": "Backend Engineer, AI | Growth",
+      "department_name": "marketing-communications",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Canada",
+        "Colombia",
+        "Perú",
+        "Mexico"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/37adfea6-d55c-46b3-8de2-fa0ea0d3999d/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "53cd1ae8-464b-4dee-bc74-456cc7756514",
+      "title": "Account Executive, Mid-Market | Benelux",
+      "department_name": "sales",
+      "location_name": "Belgium",
+      "all_locations": [
+        "Belgium",
+        "Netherlands",
+        "Portugal",
+        "Spain",
+        "Ireland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/53cd1ae8-464b-4dee-bc74-456cc7756514/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "da13dde6-d14e-4d73-9eb2-bb9285c5690b",
+      "title": "HR Experience Specialist | Germany",
+      "department_name": "customer-support-hr",
+      "location_name": "Egypt",
+      "all_locations": [
+        "Egypt"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/da13dde6-d14e-4d73-9eb2-bb9285c5690b/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "bdf1edec-9c13-4627-a25a-f212b723b330",
+      "title": "Product Operations Manager (Senior / Staff)",
+      "department_name": "product-design",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "United Arab Emirates",
+        "United Kingdom",
+        "Portugal",
+        "Spain",
+        "France",
+        "Argentina",
+        "Canada",
+        "Uruguay",
+        "Germany",
+        "Sweden",
+        "Poland",
+        "Ukraine",
+        "Hungary"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/bdf1edec-9c13-4627-a25a-f212b723b330/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "5dc5b43d-91ae-4670-9baf-0915fbe112a9",
+      "title": "Platform Security Architect",
+      "department_name": "it-security",
+      "location_name": "Germany",
+      "all_locations": [
+        "Germany",
+        "Spain",
+        "Italy",
+        "Hungary",
+        "Czech Republic",
+        "Cyprus",
+        "Greece",
+        "Turkey",
+        "Bosnia & Herzegovina",
+        "Malta",
+        "Estonia",
+        "Kosovo",
+        "Serbia",
+        "Latvia",
+        "Portugal",
+        "Moldova",
+        "Lithuania",
+        "Austria",
+        "Slovenia",
+        "Slovakia",
+        "United Arab Emirates",
+        "United Kingdom"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/5dc5b43d-91ae-4670-9baf-0915fbe112a9/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "aae5a23b-af3b-4f6f-affe-67d4b31340c2",
+      "title": "HR Experience Specialist | France",
+      "department_name": "customer-support-hr",
+      "location_name": "Egypt",
+      "all_locations": [
+        "Egypt",
+        "Spain",
+        "Morocco",
+        "Tunisia"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/aae5a23b-af3b-4f6f-affe-67d4b31340c2/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "3fba28af-9e22-4cbf-b902-b8328e7c3e66",
+      "title": "AI Engineer, Backend ",
+      "department_name": "product-design",
+      "location_name": "Berlin",
+      "all_locations": [
+        "Berlin",
+        "India",
+        "Serbia",
+        "South Africa",
+        "Israel",
+        "United Kingdom",
+        "United Arab Emirates",
+        "Croatia",
+        "Austria",
+        "North Macedonia",
+        "Germany",
+        "Kenya",
+        "Georgia",
+        "Greece",
+        "Romania",
+        "Ireland",
+        "Italy",
+        "Kosovo",
+        "Latvia",
+        "Lithuania",
+        "Malta",
+        "Moldova",
+        "Poland",
+        "Portugal",
+        "Ukraine",
+        "Turkey",
+        "France",
+        "Slovenia",
+        "Slovakia",
+        "Spain"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/3fba28af-9e22-4cbf-b902-b8328e7c3e66/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "4abe430c-57a6-4135-9a37-887dfb59248f",
+      "title": "DevOps Engineer",
+      "department_name": "engineering",
+      "location_name": "Brazil",
+      "all_locations": [
+        "Brazil",
+        "Colombia",
+        "Costa Rica",
+        "Chile",
+        "Bolivia",
+        "Paraguay",
+        "Perú"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/4abe430c-57a6-4135-9a37-887dfb59248f/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "b9d6aadb-a4ac-4966-8feb-e751b2c6f033",
+      "title": "Analyst, Ops Execution | Operational Risk Automation, Intelligence and Execution",
+      "department_name": "risk-compliance",
+      "location_name": "Australia",
+      "all_locations": [
+        "Australia",
+        "New Zealand",
+        "Hong Kong",
+        "Singapore",
+        "Philippines",
+        "Malaysia",
+        "Taiwan"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/b9d6aadb-a4ac-4966-8feb-e751b2c6f033/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "87639c7b-b2a3-4eb2-b1c0-8437f3aa43f3",
+      "title": "Full Stack Engineer - EMEA",
+      "department_name": "$undefined",
+      "location_name": "Czech Republic",
+      "all_locations": [
+        "Czech Republic",
+        "Poland",
+        "Turkey",
+        "United Kingdom",
+        "Albania",
+        "Serbia",
+        "Romania",
+        "Moldova",
+        "Hungary",
+        "Spain",
+        "Malta",
+        "Portugal",
+        "Greece",
+        "United Arab Emirates",
+        "North Macedonia",
+        "Bosnia & Herzegovina",
+        "Egypt",
+        "Estonia",
+        "Croatia",
+        "Bulgaria",
+        "Cyprus",
+        "Armenia",
+        "Georgia",
+        "France",
+        "Israel",
+        "Italy",
+        "Kosovo",
+        "Latvia",
+        "Lithuania",
+        "Slovenia"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/87639c7b-b2a3-4eb2-b1c0-8437f3aa43f3/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "cd5a1ed4-508b-44af-93e4-2393c9e9f83e",
+      "title": "Payroll Associate | Belgium",
+      "department_name": "payroll",
+      "location_name": "Belgium",
+      "all_locations": [
+        "Belgium",
+        "Poland",
+        "Luxembourg",
+        "Germany",
+        "Hungary",
+        "Greece",
+        "Slovakia",
+        "Slovenia",
+        "Italy"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/cd5a1ed4-508b-44af-93e4-2393c9e9f83e/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "c0568ade-a039-41db-a69e-30e019e0a0c8",
+      "title": "Sales Development Representative, Enterprise | DACH",
+      "department_name": "sales",
+      "location_name": "Germany",
+      "all_locations": [
+        "Germany",
+        "Spain",
+        "Portugal",
+        "Poland",
+        "Austria"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/c0568ade-a039-41db-a69e-30e019e0a0c8/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "bbb51edc-0e68-4ec4-b2ad-a1c6ce84225c",
+      "title": "Senior Product Operations Manager (APAC)",
+      "department_name": "product-design",
+      "location_name": "Australia",
+      "all_locations": [
+        "Australia",
+        "India"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/bbb51edc-0e68-4ec4-b2ad-a1c6ce84225c/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "7c0714e8-b0bf-41e8-be89-5c0bea88de06",
+      "title": "Operations Manager | APAC",
+      "department_name": "operations",
+      "location_name": "Australia",
+      "all_locations": [
+        "Australia",
+        "New Zealand",
+        "India",
+        "Japan"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/7c0714e8-b0bf-41e8-be89-5c0bea88de06/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "a71616b5-5288-4d78-9a9e-8540b948ff7d",
+      "title": "Team Lead, GTM Systems Business Analyst",
+      "department_name": "sales",
+      "location_name": "Colombia",
+      "all_locations": [
+        "Colombia",
+        "Argentina",
+        "Brazil",
+        "Uruguay",
+        "Perú",
+        "Chile",
+        "Mexico"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/a71616b5-5288-4d78-9a9e-8540b948ff7d/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "dc8446f9-908b-4490-a819-8150a44a324b",
+      "title": "HR Experience Specialist | Germany (On-site)",
+      "department_name": "customer-support-hr",
+      "location_name": "Berlin",
+      "all_locations": [
+        "Berlin"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/dc8446f9-908b-4490-a819-8150a44a324b/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "3471ab9b-04df-4b71-8c4d-88902e19c9d0",
+      "title": "FinTech Support Specialist ",
+      "department_name": "finance-accounting",
+      "location_name": "Belarus",
+      "all_locations": [
+        "Belarus",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Latvia",
+        "Lithuania",
+        "Romania",
+        "Slovenia",
+        "Ukraine",
+        "Poland"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/3471ab9b-04df-4b71-8c4d-88902e19c9d0/application",
+      "is_listed": true
+    },
+    {
+      "ashby_id": "3afd82bf-c7a9-4ed4-ad4e-9b0379f34b8f",
+      "title": "Staff Product Designer ",
+      "department_name": "product-design",
+      "location_name": "Argentina",
+      "all_locations": [
+        "Argentina",
+        "Canada",
+        "Poland",
+        "Spain",
+        "Belgium",
+        "France",
+        "United Kingdom",
+        "Brazil",
+        "Israel",
+        "Austria",
+        "Czech Republic",
+        "Denmark",
+        "Germany",
+        "Greece",
+        "Cyprus"
+      ],
+      "external_link": "https://jobs.deel.com/deel/job-details/3afd82bf-c7a9-4ed4-ad4e-9b0379f34b8f/application",
+      "is_listed": true
+    }
+  ]
+}

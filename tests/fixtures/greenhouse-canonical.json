@@ -1,0 +1,446 @@
+{
+  "note": "Real postings from the public Canonical Greenhouse board, captured verbatim.",
+  "source": "https://boards-api.greenhouse.io/v1/boards/canonical/jobs",
+  "capturedAt": "2026-10-15T11:57:05.547Z",
+  "boardToken": "canonical",
+  "jobs": [
+    {
+      "id": 5569916,
+      "title": "Accountant",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5569916",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home based - EMEA"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Finance"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7971310,
+      "title": "Accounts Payable Clerk",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7971310",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home based - EMEA; Office Based - London, UK"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Finance"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 8002334,
+      "title": "Alliances & Channels Leader",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/8002334",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home based - EMEA; Home based - Worldwide"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 3433732,
+      "title": "Alliances Field Engineer",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/3433732",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home based - Worldwide"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7267406,
+      "title": "Beijing Office Administrator",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7267406",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - Beijing, China"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Admin"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 6861186,
+      "title": "Channel Partner Sales Executive, Japan",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/6861186",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - APAC"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 4934551,
+      "title": "Cloud Alliances Business Development Lead",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/4934551",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 8023546,
+      "title": "Cloud Support Engineer (London UK office)",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/8023546",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - London, UK"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "TechOps"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 4439935,
+      "title": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/4439935",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - APAC; Home based - EMEA"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7548330,
+      "title": "Customer Success  - Team Manager",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7548330",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home Based - APAC"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Operations"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 2969042,
+      "title": "Distributed Systems Testing Software Engineer, Python / Go",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/2969042",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home based - EMEA"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7911759,
+      "title": "Embedded Devices Software Solution Sales Manager (Taipei)",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7911759",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 3666345,
+      "title": "Engineering Manager - Linux Hardware Enablement",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/3666345",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home Based - APAC; Home based - EMEA"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 8142970,
+      "title": "Head of Financial Planning & Analysis",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/8142970",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home based - EMEA; Office Based - London, UK"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering",
+            "Finance"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 2169848,
+      "title": "IoT Field Engineer - China & Region",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/2169848",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Shenzhen, China"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": null,
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 5140562,
+      "title": "Linux Devices Software Engineer",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5140562",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home based - Worldwide; Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 6177790,
+      "title": "MAAS Data Center Infrastructure Engineer (Toronto area)",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/6177790",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - Toronto, Canada"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 5660661,
+      "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5660661",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home Based - APAC; Office Based - Beijing, China; Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 5396437,
+      "title": "PC Platforms Kernel Engineer - Ubuntu Linux",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/5396437",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - Beijing, China; Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 8094035,
+      "title": "Regional SDR Director",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/8094035",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - Americas; Home Based - APAC; Home based - EMEA; Home based - Worldwide"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7561124,
+      "title": "Silicon Alliances Ecosystem Development Manager - Shanghai or Beijing",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7561124",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - Beijing, China; Office Based - Shanghai, China"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Alliances",
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7364810,
+      "title": "Tokyo Office Administrator",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7364810",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Office Based - Tokyo, Japan"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Admin"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    },
+    {
+      "id": 7965671,
+      "title": "Ubuntu Linux Kernel Test Engineer",
+      "absolute_url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
+      "company_name": "Canonical",
+      "location": {
+        "name": "Home Based - APAC; Office Based - Beijing, China; Office Based - Taipei, Taiwan"
+      },
+      "metadata": [
+        {
+          "id": 2739136,
+          "name": "External Departments (website)",
+          "value": [
+            "Engineering"
+          ],
+          "value_type": "multi_select"
+        }
+      ]
+    }
+  ]
+}
